@@ -9,6 +9,5 @@ function sum(num1, num2) {
 
 let sum = (num1, num2) => num1 + num2;
 
-// sum (2,3);
 
 console.log(sum(2,3))
